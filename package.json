@@ -73,7 +73,7 @@
     "validator": "8.0.0",
     "validatorjs": "3.11.0",
     "winston": "2.3.1",
-    "winston-logs-display": "0.1.1"
+    "winston-logs-display": "1.0.0"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
