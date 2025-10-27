@@ -49,7 +49,7 @@
     "mocha": "^3.5.3",
     "mongoose": "4.6.4",
     "morgan": "1.7.0",
-    "next": "^4.2.3",
+    "next": "^6.1.0",
     "next-redux-wrapper": "^1.3.5",
     "passport": "0.3.2",
     "passport-jwt": "2.1.0",
@@ -70,7 +70,7 @@
     "render-if": "^0.1.1",
     "resource-router-middleware": "^0.7.0",
     "uuid": "3.1.0",
-    "validator": "8.0.0",
+    "validator": "13.15.20",
     "validatorjs": "3.11.0",
     "winston": "2.3.1",
     "winston-logs-display": "0.1.1"
